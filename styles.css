@@ -1,0 +1,148 @@
+body {
+  background-color: darksalmon;
+}
+.main {
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  text-align: center;
+}
+.p1 {
+  background-color: dodgerblue;
+}
+
+ul {
+  list-style-type: none;
+  /* margin: 0;
+  padding: 0; */
+  width: 25%;
+  background-color: dodgerblue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a {
+  display: block;
+  color: white;
+  /* padding: 14px 16px; */
+  /* text-decoration: none; */
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+p {
+  display: block;
+  overflow: hidden;
+}
+.news {
+  background-image: url(News.png);
+  background-color: beige;
+  text-align: left;
+  color: black;
+}
+.about {
+  background-image: url(Blood.png);
+  background-color: maroon;
+  text-align: left;
+  color: ivory;
+}
+.forbiddinowl {
+  background-image: url(Purple.png);
+  background-color: purple;
+  text-align: left;
+  color: ivory;
+}
+.splash {
+  background-image: url(Splash.png);
+  background-color: gray;
+  text-align: left;
+  color: ivory;
+}
+.gone {
+  /* background-image: url("purpleorchard.png"); */
+  background-color: black;
+  text-align: left;
+  color: ivory;
+}
+.signal {
+  background-image: url(Signal.png);
+  background-color: green;
+  text-align: left;
+  color: ivory;
+}
+.main {
+  background-image: url(Frostbite.png);
+  background-color: gray;
+  text-align: left;
+  color: ivory;
+}
+.other {
+  background-image: url(Pages.png);
+  background-color: gray;
+  text-align: left;
+  color: ivory;
+}
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.signalcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.Logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.Substationimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+  .center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+iframe {
+  width: 100%;
+}
