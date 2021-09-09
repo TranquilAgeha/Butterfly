@@ -52,7 +52,7 @@ p {
   color: black;
 }
 .about {
-  background-image: url(Blood.png);
+  background-image: url(About.png);
   background-color: maroon;
   text-align: left;
   color: ivory;
@@ -98,30 +98,6 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-}
-.signalcenter {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
-.Logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.Substationimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
-}
-  .center2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
 }
 .right {
   transform: rotate(-45deg);
